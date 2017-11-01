@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidApp1</string>
+    <string name="tvAct1Nombre">Nombre del Usuario</string>
+    <string name="tvAct1Password">Password del Usuario</string>
+    <string name="btnAct1Ingresar">Ingresar</string>
+    <string name="tvAct2Bienvenida">Bienvenido!</string>
+    <string name="tvAct2Dato">-----------</string>
+    <string name="btnAct1RecuraUsu">Recuperar Usuario</string>
+    <string name="tvAct3Correo">Ingrese el correo registrado</string>
+    <string name="btnAct3Correo">Enviar Datos</string>
+    <string name="tvAct1Mensaje"></string>
+</resources>
